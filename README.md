@@ -10,8 +10,4 @@ I'm currently learning Python and exploring the world of programming. I'm excite
 ### 📚 Current Learning Goals:
 - Master Python basics and intermediate concepts
 
-### 📫 How to reach me:
-- [Email](mailto:your-email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-
 Thanks for visiting my profile! 😊
