@@ -1,17 +1,30 @@
-## Hello!!! 👋
+# Hello! 👋
 
-<!--
-**hong9640/hong9640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python Enthusiast 🐍 | Beginner Developer
 
-Here are some ideas to get you started:
+I'm currently learning Python and exploring the world of programming. I'm excited to learn and grow as a developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tools & Technologies I am learning:
+- Python 3
+- Flask (Web Framework)
+- Data Science Libraries (e.g., Pandas, NumPy, Matplotlib)
+- Git & GitHub
 
+### 📚 Current Learning Goals:
+- Master Python basics and intermediate concepts
+- Build my first web app with Flask
+- Explore Machine Learning and Data Science
+
+### 🌱 My Projects:
+- **Python Basics**: A collection of small Python scripts to practice fundamental concepts.
+- **Personal Website**: A web app to showcase my progress and projects using Flask.
+
+### 📫 How to reach me:
+- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/your-profile/)
+
+### 📝 Fun Facts:
+- I love solving coding challenges on platforms like LeetCode and HackerRank.
+- When I'm not coding, I enjoy reading tech blogs and exploring new tools.
+
+Thanks for visiting my profile! 😊
