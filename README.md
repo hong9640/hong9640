@@ -2,12 +2,15 @@
 
 ## Python Enthusiast 🐍 | Beginner Developer
 
-I'm currently learning Python and exploring the world of programming. I'm excited to learn and grow as a developer!
+I'm a developer proficient in **Python** and **JavaScript**, with experience in both **frontend and backend web development**.
 
 ### 🔧 Tools & Technologies I am learning:
 - Python 3
+- java script
 
-### 📚 Current Learning Goals:
-- Master Python basics and intermediate concepts
+## Skills
+* **Back:** Python (Django)
+* **Front:** JavaScript (Vanilla JS)
+* **algoritm:** Python
 
 Thanks for visiting my profile! 😊
