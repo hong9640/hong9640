@@ -35,8 +35,8 @@ it allowed me to gain valuable experience in:
 - **Backend architecture**  
 - **User-facing design**
 
-I believe these skills are **transferable** and form a strong base for future work in **intelligent systems** and **industry-specific platforms**,  
-including **finance** or **smart manufacturing**.
+I believe these skills are **transferable** and form a strong base for future work in **intelligent systems** and **industry-specific platforms**, including **finance** or **smart manufacturing**.
+
 ---
 
 Thanks for visiting my profile! 😊
