@@ -24,8 +24,19 @@ I'm a passionate developer proficient in **Python** and **JavaScript**, with han
 
 ### 🌱 Interests & Background
 
-As a **Mechanical Engineering graduate**, I possess a deep understanding of hardware systems and practical problem-solving skills gained from my experience as an **assistant in large gas turbine maintenance**. Building on this foundation, I aim to apply my expertise and contribute to fields where hardware and software converge, such as **Smart Grids, AIoT (Artificial Intelligence of Things), and Drones**.
+I majored in **Mechanical Engineering** and have hands-on experience assisting in **gas turbine maintenance**.  
+This gave me a **strong understanding of mechanical systems** and **real-world industrial operations**.  
 
+While my academic background is rooted in machinery, my recent interests have expanded into **AIoT**, **AI**, and **drones**—fields where **software and hardware deeply interact**.  
+
+Although my current project (a **book recommendation website**) is not directly aligned with these interests,  
+it allowed me to gain valuable experience in:  
+- **Data handling**  
+- **Backend architecture**  
+- **User-facing design**
+
+I believe these skills are **transferable** and form a strong base for future work in **intelligent systems** and **industry-specific platforms**,  
+including **finance** or **smart manufacturing**.
 ---
 
 Thanks for visiting my profile! 😊
